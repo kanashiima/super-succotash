@@ -1,0 +1,26 @@
+body {
+  background-image: url(https://media.giphy.com/media/l51a5wLWr6oRUOWnEr/giphy.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+.card2 {
+  margin: 0.5em;
+  /* background-color: rgba(245, 245, 245, 0.2); */
+  background: rgba(241, 241, 241, 0.37);
+  /* opacity: 1; */
+}
+
+.card {
+  margin: 0.5em;
+  /* background-color: rgba(245, 245, 245, 0.2); */
+  background: rgba(241, 241, 241, 0.801);
+  /* opacity: 1; */
+}
+.success {
+  outline: 2px solid green;
+}
+.error {
+  outline: 2px solid red;
+}
